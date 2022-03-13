@@ -1,5 +1,6 @@
-# Time-Series-Database
+# Time-Series-Database 
 By NJU Shizhe LIU
+
 关于时序数据库的一些资料整理(新的研究资料后续会更新...)，包括但不限于：
 
 1.时序数据库相关的论文(paper list文件夹)
@@ -14,6 +15,8 @@ By NJU Shizhe LIU
 
 6.时序数据索引技术(TS-Index文件夹)
 
+7.时序数据挖掘(TS-Data Mining)待添加
 
+last update time:2020.3.13
 
 #### NJU LANDS Copyright 
