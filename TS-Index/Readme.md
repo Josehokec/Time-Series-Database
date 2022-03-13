@@ -5,6 +5,7 @@ By NJU Shizhe LIU
 * iSAX
 * SSH
 * LSH
+
 包括：SIMD指令、并行、减枝、降维等技术 
 
 ### 重量级文章
