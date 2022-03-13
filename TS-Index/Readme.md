@@ -8,7 +8,7 @@ By NJU Shizhe LIU
 
 包括：SIMD指令、并行、减枝、降维等技术 
 
-### 重量级文章
+### 重量级文章(部分)
 * SIGMOD(2014,2016)
   * Indexing for Interactive Exploration of Big Data Series
   * Set-based Similarity Search for Time Series
